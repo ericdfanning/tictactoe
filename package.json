@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Play tic tac toe on the command line with a friend",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericdfanning/tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericdfanning/tictactoe/issues"
+  },
+  "homepage": "https://github.com/ericdfanning/tictactoe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
